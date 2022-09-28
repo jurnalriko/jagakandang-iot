@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.17760416666666667" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/selector_item.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_1.xml" value="0.16510416666666666" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_10.xml" value="0.16510416666666666" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_11.xml" value="0.16510416666666666" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_12.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_5.xml" value="0.16510416666666666" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_8.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_login.xml" value="0.16510416666666666" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_off.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_offline.xml" value="0.16510416666666666" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_on.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/activity_detail_home.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/activity_info.xml" value="0.4801255230125523" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/activity_iot_detail.xml" value="0.3743961352657005" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/dialog_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/dialog_iot.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/fragment_home.xml" value="0.536" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/fragment_manage.xml" value="0.37341772151898733" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/list_home.xml" value="0.536" />
+        <entry key="..\:/AndroidStudioProjects/d3if43-mia-jagakandang/app/src/main/res/layout/list_iot.xml" value="0.4" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/ic_baseline_content_copy_24.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/ic_baseline_notifications_none_24.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/selector_item.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_1.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_10.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_11.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_12.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_2.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_3.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_4.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_5.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_6.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_7.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_8.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_cardview_9.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_login.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_off.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_offline.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/drawable/shape_on.xml" value="0.1" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/activity_detail_home.xml" value="0.5144843568945539" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/activity_info.xml" value="0.35687732342007433" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/activity_iot_detail.xml" value="0.4" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/activity_main2.xml" value="0.21875" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/dialog_home.xml" value="0.4" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/dialog_iot.xml" value="0.24365942028985507" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/fragment_home.xml" value="0.6" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/fragment_iot_detail.xml" value="0.1644021739130435" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/fragment_manage.xml" value="0.46647230320699706" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/list_home.xml" value="0.536" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/layout/list_iot.xml" value="0.4" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/d3if43-mia-jagakandang/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
